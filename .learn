@@ -10,3 +10,4 @@ languages:
 type:
   - lab
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/rails-model-view-controller-readme.git
