@@ -76,4 +76,8 @@ Which is translated to the following HTML markup:
 
 Notice how the Action View helper enabled us to dynamically set the HTML tags without having to write any HTML code at all? You will discover that this is a very helpful tool as your views grow in size. The more Ruby and the less HTML you write, the cleaner your views will be, resulting in them being easier to manage and scale.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-model-view-controller-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-model-view-controller-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails Model View Controller</p>
